@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Mchyll.IdentityFramework</RootNamespace>
+    <AssemblyName>Mchyll.IdentityFramework</AssemblyName>
+  </PropertyGroup>
+
+</Project>
