@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Mchyll.IdentityFramework
+namespace Mchyll.Identity.Framework
 {
     public class Permission
     {

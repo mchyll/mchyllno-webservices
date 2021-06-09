@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <RootNamespace>Mchyll.IdentityFramework</RootNamespace>
-    <AssemblyName>Mchyll.IdentityFramework</AssemblyName>
+    <RootNamespace>Mchyll.Identity.Framework</RootNamespace>
+    <AssemblyName>Mchyll.Identity.Framework</AssemblyName>
   </PropertyGroup>
 
 </Project>
